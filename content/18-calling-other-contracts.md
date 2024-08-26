@@ -32,7 +32,7 @@ contract AnotherContract {
 
 Here’s how you can see it in action
 
-![https://static.wixstatic.com/media/61a666_ad5ca9f4df6844fc8f3c4d7463fdd53e~mv2.png/v1/fill/w_939,h_610,al_c,q_95,enc_auto/Calling%20other%20contracts1.png](https://static.wixstatic.com/media/61a666_ad5ca9f4df6844fc8f3c4d7463fdd53e~mv2.png/v1/fill/w_939,h_610,al_c,q_95,enc_auto/Calling%20other%20contracts1.png)
+![https://static.wixstatic.com/media/61a666_ad5ca9f4df6844fc8f3c4d7463fdd53e~mv2.png](https://static.wixstatic.com/media/61a666_ad5ca9f4df6844fc8f3c4d7463fdd53e~mv2.png)
 
 Because we reviewed **tuples, abi encoding**, and **bytes memory** already the only surprising thing here should be **call** and the fact that **askTheMeaningOfLife()** is not a view function.
 
