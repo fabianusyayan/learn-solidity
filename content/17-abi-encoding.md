@@ -106,7 +106,7 @@ Thankfully we don’t.
 
 Watch this.
 
-![https://static.wixstatic.com/media/61a666_687ca50bc74449e28295e2641620d6c1~mv2.png/v1/fill/w_939,h_256,al_c,q_95,enc_auto/ABI%20Encoding4.png](https://static.wixstatic.com/media/61a666_687ca50bc74449e28295e2641620d6c1~mv2.png/v1/fill/w_939,h_256,al_c,q_95,enc_auto/ABI%20Encoding4.png)
+![https://static.wixstatic.com/media/61a666_687ca50bc74449e28295e2641620d6c1~mv2.png](https://static.wixstatic.com/media/61a666_687ca50bc74449e28295e2641620d6c1~mv2.png)
 
 ```solidity
 
@@ -133,7 +133,7 @@ We don’t need to concern ourselves with the specification of ABI encoding now,
 
 Consider the following example.
 
-![https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png/v1/fill/w_939,h_297,al_c,q_95,enc_auto/ABI%20Encoding5.png](https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png/v1/fill/w_939,h_297,al_c,q_95,enc_auto/ABI%20Encoding5.png)
+![https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png(https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png)
 
 ```solidity
 
