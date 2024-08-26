@@ -133,7 +133,7 @@ We don’t need to concern ourselves with the specification of ABI encoding now,
 
 Consider the following example.
 
-![https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png(https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png)
+![https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png](https://static.wixstatic.com/media/61a666_ef35fbdaa086479aa76b7ce06edceb08~mv2.png)
 
 ```solidity
 
