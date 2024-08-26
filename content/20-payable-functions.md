@@ -23,7 +23,7 @@ contract ExampleContract {
 
 After you deploy this contract on Remix, you’ll note that the button for interacting with **payMe** turns Red. This means you can specify in the field above how much value (Ether) to send when you call the function.
 
-![https://static.wixstatic.com/media/61a666_207085b0008a42d4b5dc8349cf7c802f~mv2.png/v1/fill/w_939,h_658,al_c,q_95,enc_auto/Payable%20Functions1.png](https://static.wixstatic.com/media/61a666_207085b0008a42d4b5dc8349cf7c802f~mv2.png/v1/fill/w_939,h_658,al_c,q_95,enc_auto/Payable%20Functions1.png)
+![https://static.wixstatic.com/media/61a666_207085b0008a42d4b5dc8349cf7c802f~mv2.png](https://static.wixstatic.com/media/61a666_207085b0008a42d4b5dc8349cf7c802f~mv2.png)
 
 You can send Ether in units of Wei, Gwei, Finney, or Ether.
 
