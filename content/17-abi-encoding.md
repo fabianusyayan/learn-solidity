@@ -38,7 +38,7 @@ Whenever you "call" a smart contract, you are actually sending an ethereum trans
 
 Let’s look at the information from another vantage point.
 
-![https://static.wixstatic.com/media/61a666_38d5431035ee47bca02b56df9b3f92f7~mv2.png/v1/crop/x_2,y_0,w_1998,h_882/fill/w_939,h_414,al_c,q_95,enc_auto/ABI%20Encoding2.png](https://static.wixstatic.com/media/61a666_38d5431035ee47bca02b56df9b3f92f7~mv2.png/v1/crop/x_2,y_0,w_1998,h_882/fill/w_939,h_414,al_c,q_95,enc_auto/ABI%20Encoding2.png)
+![https://static.wixstatic.com/media/61a666_38d5431035ee47bca02b56df9b3f92f7~mv2.png](https://static.wixstatic.com/media/61a666_38d5431035ee47bca02b56df9b3f92f7~mv2.png)
 
 ```solidity
 
@@ -78,7 +78,7 @@ When a function takes no arguments, sending four bytes that represent the functi
 
 But what would the data look like if it took an argument?
 
-![https://static.wixstatic.com/media/61a666_2afb4e91b2f0423ba0d719a3d8b382ec~mv2.png/v1/fill/w_939,h_209,al_c,q_95,enc_auto/ABI%20Encoding3.png](https://static.wixstatic.com/media/61a666_2afb4e91b2f0423ba0d719a3d8b382ec~mv2.png/v1/fill/w_939,h_209,al_c,q_95,enc_auto/ABI%20Encoding3.png)
+![https://static.wixstatic.com/media/61a666_2afb4e91b2f0423ba0d719a3d8b382ec~mv2.png](https://static.wixstatic.com/media/61a666_2afb4e91b2f0423ba0d719a3d8b382ec~mv2.png)
 
 ```solidity
 
