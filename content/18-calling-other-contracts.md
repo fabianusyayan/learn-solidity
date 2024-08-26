@@ -56,7 +56,7 @@ It reverts, but that’s not because the address isn’t there, but because you 
 
 When you open the transaction dropdown in remix, you see the revert explanation here.
 
-![https://static.wixstatic.com/media/61a666_07808a80849d4e6c8938a4459a811a87~mv2.png/v1/fill/w_952,h_69,al_c,q_95,enc_auto/Calling%20other%20contracts2.png](https://static.wixstatic.com/media/61a666_07808a80849d4e6c8938a4459a811a87~mv2.png/v1/fill/w_952,h_69,al_c,q_95,enc_auto/Calling%20other%20contracts2.png)
+![https://static.wixstatic.com/media/61a666_07808a80849d4e6c8938a4459a811a87~mv2.png](https://static.wixstatic.com/media/61a666_07808a80849d4e6c8938a4459a811a87~mv2.png)
 
 ```solidity
 
