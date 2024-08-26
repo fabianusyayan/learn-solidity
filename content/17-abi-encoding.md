@@ -12,8 +12,8 @@ But I want you to understand what the following things are
 
 To motivate them, let’s create another smart contract, open the "debug" dropdown, and get a certain piece of information.
 
-![https://static.wixstatic.com/media/61a666_57ac790548bd46f293823e0574f3e152~mv2.png/v1/fill/w_939,h_447,al_c,q_95,enc_auto/ABI%20Encoding1.png]
-(https://static.wixstatic.com/media/61a666_57ac790548bd46f293823e0574f3e152~mv2.png/v1/fill/w_939,h_447,al_c,q_95,enc_auto/ABI%20Encoding1.png)
+![https://static.wixstatic.com/media/c0c19a_b9ca99cdc4384a34b4ad9c56ae28e8b9~mv2.png/v1/fill/w_939,h_494,al_c,q_95,enc_auto/c0c19a_b9ca99cdc4384a34b4ad9c56ae28e8b9~mv2.png]
+(https://static.wixstatic.com/media/c0c19a_b9ca99cdc4384a34b4ad9c56ae28e8b9~mv2.png/v1/fill/w_939,h_494,al_c,q_95,enc_auto/c0c19a_b9ca99cdc4384a34b4ad9c56ae28e8b9~mv2.png)
 
 ```solidity
 
